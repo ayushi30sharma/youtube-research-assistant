@@ -1,11 +1,11 @@
 <img width="1281" height="740" alt="web search" src="https://github.com/user-attachments/assets/36785714-4d6e-4c17-b0ec-d85762c7df53" />
+<img width="1355" height="757" alt="youtube answer" src="https://github.com/user-attachments/assets/05832a54-2c9b-4bb1-b3f7-a43d55f431ec" />
 
 # 🎥 YouTube Research Assistant
 
 > An Agentic AI research assistant that answers questions from a YouTube video using RAG and automatically falls back to web search when the required information is not available in the video.
 
 <p align="center">
-<img width="1355" height="757" alt="youtube answer" src="https://github.com/user-attachments/assets/05832a54-2c9b-4bb1-b3f7-a43d55f431ec" />
 
   <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-Agentic%20Workflow-1C3C3C?style=for-the-badge" />

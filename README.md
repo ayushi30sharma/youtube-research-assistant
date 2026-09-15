@@ -1,3 +1,4 @@
+<img width="1281" height="740" alt="web search" src="https://github.com/user-attachments/assets/36785714-4d6e-4c17-b0ec-d85762c7df53" />
 # 🎥 YouTube Research Assistant
 
 > An Agentic AI research assistant that answers questions from a YouTube video using RAG and automatically falls back to web search when the required information is not available in the video.
@@ -97,7 +98,8 @@ The final response is generated locally using **Qwen3 through Ollama**.
                                     │
                                     ▼
                          ┌─────────────────────┐
-                         │       Qwen3         │
+                         │       Qwen3         │<img width="1355" height="757" alt="youtube answer" src="https://github.com/user-attachments/assets/74335445-992d-41fa-80fd-b9f48aa56d91" />
+
                          │   Local LLM/Ollama  │
                          └──────────┬──────────┘
                                     │
